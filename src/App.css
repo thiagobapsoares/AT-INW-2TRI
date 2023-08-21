@@ -1,0 +1,223 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-expand{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #cb8ed1;
+}
+
+html ::-webkit-scrollbar {
+  width: 10px;
+}
+html ::-webkit-scrollbar-thumb {
+  border-radius: 30px;
+  background: #53af83;
+}
+html ::-webkit-scrollbar-track {
+  background: #212529;
+}
+
+html ::selection {
+  color: #ededed;
+  background-color: #53af83
+}
+
+.nav-link:hover{
+  color: #53af83 !important;
+}
+
+.navbar-expand::backdrop{
+  color: #53af83 !important;
+}
+
+button{
+  background-color: #53af83 !important;
+  border: #53af83 !important;
+  margin-bottom: 10px;
+}
+
+.navbar-expand {
+  flex-wrap: nowrap;
+  justify-content: center;
+  padding: 80px;
+}
+
+section {
+  background-color: #EFEFEB;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.dicas {
+  background-color: #009158;
+  border-radius: 25px;
+}
+
+.info {
+  background-color: #53af83;
+  border-radius: 25px;
+}
+
+.h2-cabecalho {
+  display: grid;
+  padding: 2rem 2rem 2rem 0rem;
+  color: #ededed;
+}
+
+.container {
+  justify-content: center;
+}
+
+.c-item{
+  height: 50px;
+}
+
+.c-img{
+  object-fit: cover;
+  max-height: 770px;
+  max-width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.descubra {
+  max-width: 700px;
+  align-items: center;
+  justify-content: center;
+}
+
+.taxas {
+  align-items: center !important; 
+  justify-content: center !important;
+}
+
+.home {
+  margin-top: 50px;
+}
+
+.h1-home {
+  font-weight: 900;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.p-home {
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 85px;
+}
+
+.explicado {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+
+.p-texto {
+  text-align: start;
+  font-weight: 800;
+  margin-bottom: 85px;
+  margin-left: 100px;
+  margin-top: 30px;
+  max-width: 40rem;
+  font-size: 18px;
+}
+
+.p-texto2 {
+  text-align: start;
+  font-weight: 800;
+  margin-bottom: 85px;
+  margin-right: 100px;
+  margin-top: 30px;
+  max-width: 40rem;
+  font-size: 18px;
+}
+
+.inicial-img {
+  max-height: 800px;
+  max-width: 500px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+}
+
+.inicial-img2 {
+  max-height: 800px;
+  max-width: 500px;
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
+
+.adote {
+  padding: 20px;
+}
+
+.descubra-titulo{
+  text-align: center;
+  font-weight: 900;
+}
+
+.descubra-texto{
+  text-align: center;
+  font-weight: 600;
+}
+
+.card {
+  align-items: center;
+  justify-content: space-around;
+  margin: 20px 20px 40px 20px;
+  border-left: 0;
+}
+
+.card-group {
+  margin-bottom: 30px;
+}
+
+.mb-3{
+  padding: 1.5rem;
+  margin: 10px;
+}
+
+.NavLogo {
+  margin: 0;
+}
+
+/* O react que fez esse CSS
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.read-the-docs {
+  color: #888;
+}*/

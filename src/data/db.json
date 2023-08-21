@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "titulo": "DISQUE 190!",
+        "frase": "O feminicídio mata"
+      },
+      {
+        "id": 2,
+        "titulo": "NÃO SE CALE!",
+        "frase": "A sua vida importa"
+      },
+      {
+        "id": 3,
+        "titulo": "VEJA OS DADOS!",
+        "frase": "O crime contra a mulher está em crescimento"
+      }
+    ]
+  }
