@@ -13,7 +13,7 @@ Agora estamos desenvolvendo outra página, porém, cada grupo poderia escolher u
 - Utilização de Barra de Navegação, Carrossel de Imagens, Card's e Rodapé;
 - Apresenta um layout simples e minimalista, com elementos visuais atrativos e de fácil leitura. A cor verde foi a escolhida para representar o site.
 
-## 👩🏻‍🎓 Orientações de Utilização
+## 🦮 Orientações de Utilização
 
 1. Faça o clone deste repositório em sua máquina;
 2. Navegue até o diretório do projeto no terminal.
