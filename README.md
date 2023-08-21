@@ -1,8 +1,8 @@
-# ONG Taking Care
+# Avaliação Trimestral - ONG Taking Care
 
 ![Projeto Página Institucional](src/assets/banner-readme.png)
 
-# 🐶🦴 
+# 🐶🦴 Taking Care 
 
 Após realizarmos o projeto qual cada aluno da sala de aula recebeu um tema específico para desenvolver seu próprio site, utilizando o React Bootstrap como ferramenta auxiliar. [(Loja de Ferramentas)](https://github.com/thiagobapsoares/AC-INW-2TRI) e o projeto sobre casos de feminicídio [(Página Institucional)](https://github.com/thiagobapsoares/AC-PAGINA-INSTITUCIONAL) <br>
 Agora estamos desenvolvendo outra página, porém, cada grupo poderia escolher um tema de uma ONG para seu site. O nosso foi Proteção Animal.
